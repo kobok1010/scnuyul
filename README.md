@@ -1,0 +1,2 @@
+# scriptnya
+Gw
