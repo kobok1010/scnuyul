@@ -37,7 +37,7 @@ echo "***************************************************"|lolcat
 echo "Created By      : MR.TAMVAN"|lolcat
 echo "My Team         : BlackHat Hacker Indonesia "|lolcat
 echo "My Github       : https://github.com/Rafell"|lolcat
-echo "Contact         : Mr.F3eLL1603gmail.com"|lolcat
+echo "Contact         : tayo.cyber@gmail.com"|lolcat
 echo "***************************************************"|lolcat
 echo $blue"______________________________________"
 figlet -f slant Mr. F3eLL|lolcat
